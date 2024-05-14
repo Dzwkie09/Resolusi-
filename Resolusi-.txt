@@ -2,3 +2,4 @@ Resolusi
 - Konsisten ngoding
 - Menambah bahasa pemrograman
 - nambah skill tambahan 
+- Kolaborasi dengan lebih banyak expert
