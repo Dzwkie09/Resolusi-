@@ -1,0 +1,1 @@
+Resolusi untuk rencana kedepannya 
